@@ -1,5 +1,5 @@
 # Netflix_sql_project
 Netflix Data analysis using SQL 
-Taking out 10 business problems and solving it using SQL
 
-[Netflix_logo]()
+
+[Netflix_logo](https://github.com/nishicool/Netflix_sql-_project/blob/main/Netflix_Symbol_RGB.png)
