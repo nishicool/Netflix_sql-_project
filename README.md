@@ -1,5 +1,4 @@
 # Netflix_sql_project
 Netflix Data analysis using SQL 
 
-
-1[Netflix_logo](https://github.com/nishicool/Netflix_sql-_project/blob/main/Netflix_Symbol_RGB.png)
+[Netflix_logo](https://github.com/nishicool/Netflix_sql-_project/blob/main/Netflix_Symbol_RGB.png)
