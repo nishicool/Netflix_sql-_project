@@ -1,1 +1,1 @@
-# Netflix_sql-_project
+# Netflix_sql_project
